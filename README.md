@@ -1,6 +1,6 @@
 # Matlen Labs
 
-Hi, I'm Matt English, a software developer. Matlen Labs is where I build, and write up, experiments in local AI, home infrastructure and personal apps.
+Hi, I'm Matt, a software developer. Matlen Labs is where I build, and write up, experiments in local AI, home infrastructure and personal apps.
 
 ## Now building
 
